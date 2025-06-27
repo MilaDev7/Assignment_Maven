@@ -7,6 +7,12 @@
   <version>1.0-SNAPSHOT</version>
   <name>01-Maven-web_assignment Maven Webapp</name>
   <url>http://maven.apache.org</url>
+
+  #feature
+  #second edit
+
+# mila modified from local
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
